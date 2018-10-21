@@ -1,5 +1,5 @@
 +++
-date = "2018-10-21T05:28:31+00:00"
+date = ""
 draft = true
 layout = "page"
 title = "Home"
