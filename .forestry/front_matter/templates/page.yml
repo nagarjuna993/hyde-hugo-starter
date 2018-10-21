@@ -14,12 +14,6 @@ fields:
   hidden: false
   default: ''
   description: Add page title here
-- type: datetime
-  name: date
-  label: Date
-  config:
-    required: false
-  description: Add publishing date here
 pages:
 - content/home.md
 - content/about.md
