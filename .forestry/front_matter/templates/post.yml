@@ -14,5 +14,3 @@ fields:
   hidden: false
   default: ''
   description: Add post title here
-pages:
-- content/posts/example-content.md
