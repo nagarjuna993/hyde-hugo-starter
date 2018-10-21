@@ -14,12 +14,6 @@ fields:
   hidden: false
   default: ''
   description: Add post title here
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: ''
-  description: Add publishing date here
 pages:
 - content/posts/introducing-hyde.md
 - content/posts/example-content.md
