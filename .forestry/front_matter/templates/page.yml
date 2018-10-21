@@ -15,5 +15,6 @@ fields:
   default: ''
   description: Add page title here
 pages:
+- content/photos.md
 - content/home.md
 - content/about.md
