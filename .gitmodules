@@ -7,3 +7,6 @@
 [submodule "resume"]
 	path = themes/msb-hugo-theme
 	url = https://github.com/nagarjuna993/msb-hugo-theme.git
+[submodule "themes/resume"]
+	path = themes/resume
+	url = https://github.com/nagarjuna993/msb-hugo-theme.git
