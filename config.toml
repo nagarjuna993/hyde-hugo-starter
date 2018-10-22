@@ -6,5 +6,5 @@ title = "My New Hugo Site"
 disqusShortname = ""
 googleAnalytics = ""
 layoutReverse = false
-theme = "hyde"
+theme = "resume"
 themeColor = ""
