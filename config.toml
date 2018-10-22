@@ -1,10 +1,23 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-theme = "hyde"
+theme = "resume"
 title = "My New Hugo Site"
 [params]
-disqusShortname = ""
-googleAnalytics = ""
-layoutReverse = false
-theme = "resume"
-themeColor = ""
+    firstName = "Test"
+    lastName = "Name"
+    address = "Hoooland"
+    phone = "1234455757"
+    contactNote = "Engineer"
+    profileImage = "img/TechChat.png"
+    email = "email@domain.com"
+    description = "Not so much to show"
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = true
+    showOpenSource = true
+    showPublications = true
+    showExperience = true
+    showEducation = true
+
+    showQr = true
