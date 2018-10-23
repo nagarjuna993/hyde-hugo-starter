@@ -1,50 +1,40 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Eddie Webb"
 theme = "resume"
-
+title = "Eddie Webb"
 [params]
-    firstName = "Eddie"
-    lastName = "Webb"
-    address = "Rollinsford, NH"
-    phone = "1-555-555-1234"
-    contactNote = "Dev Tools Engineer"
-    profileImage = "img/TechChat.png"
-    email = "email@domain.com"
-    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
-    favicon = "images/favicon.ico"
-    # what sections
-    showSkills = true
-    showProjects = true
-    showOpenSource = true
-    showPublications = true
-    showExperience = true
-    showEducation = true
-
-    showQr = true
-
-[[params.handles]]
-    name = "LinkedIn"
-    link = "https://www.linkedin.com/in/edwardwebb/"
-
-
-[[params.handles]]
-    name = "GitHub"
-    link = "https://github.com/eddiewebb/"
-
-[[params.handles]]
-    name = "Bitbucket"
-    link = "https://bitbucket.org/eddiewebb/"
-
-[[params.handles]]
-    name = "Stack Overflow"
-    link = "https://stackoverflow.com/users/story/82880"
-    icon = "stack-overflow"
-
-[[params.handles]]
-    name = "Keybase"
-    link = "https://keybase.io/edwardawebb"
-    icon = "key"
-
+address = "Rollinsford, NH"
+contactNote = "Dev Tools Engineer"
+description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+email = "email@domain.com"
+favicon = "images/favicon.ico"
+firstName = "Eddie"
+lastName = "Webb"
+phone = "1-555-555-1234"
+profileImage = "img/TechChat.png"
+showEducation = true
+showExperience = true
+showOpenSource = true
+showProjects = true
+showPublications = true
+showQr = true
+showSkills = true
 [params.google.analytics]
-    trackerID = "XX-123446-01"
+trackerID = "XX-123446-01"
+[[params.handles]]
+link = "https://www.linkedin.com/in/edwardwebb/"
+name = "LinkedIn"
+[[params.handles]]
+link = "https://github.com/eddiewebb/"
+name = "GitHub"
+[[params.handles]]
+link = "https://bitbucket.org/eddiewebb/"
+name = "Bitbucket"
+[[params.handles]]
+icon = "stack-overflow"
+link = "https://stackoverflow.com/users/story/82880"
+name = "Stack Overflow"
+[[params.handles]]
+icon = "key"
+link = "https://keybase.io/edwardawebb"
+name = "Keybase"
