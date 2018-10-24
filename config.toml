@@ -1,15 +1,15 @@
 baseURL = "/"
 languageCode = "en-us"
 theme = "resume"
-title = "Eddie Webb"
+title = "Prof. Mukkamala Saratchandra Babu"
 [params]
 address = "Rollinsford, NH"
 contactNote = "Dev Tools Engineer"
 description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
 email = "email@domain.com"
 favicon = "images/favicon.ico"
-firstName = "Eddie"
-lastName = "Webb"
+firstName = "Saratchandra Babu"
+lastName = "Mukkamala"
 phone = "1-555-555-1234"
 profileImage = "img/TechChat.png"
 showEducation = true
@@ -19,6 +19,7 @@ showProjects = true
 showPublications = true
 showQr = true
 showSkills = true
+showTeam = true
 [params.google.analytics]
 trackerID = "XX-123446-01"
 [[params.handles]]
