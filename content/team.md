@@ -9,6 +9,6 @@ title = "Team"
 weight = ""
 [sitemap]
 priority = ""
-
+menu = "main"
 +++
 teams
