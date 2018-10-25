@@ -50,4 +50,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/publications/test.md
 - content/team.md
