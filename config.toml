@@ -39,8 +39,3 @@ name = "Stack Overflow"
 icon = "key"
 link = "https://keybase.io/edwardawebb"
 name = "Keybase"
-[menu]
-  [[menu.main]]
-    identifier = "team"
-    name = "about team"
-    url = "/team/"

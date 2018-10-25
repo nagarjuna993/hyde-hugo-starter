@@ -7,8 +7,13 @@ link = ""
 tags = []
 title = "Team"
 weight = ""
+[menu.main]
+identifier = "team"
+name = "about team"
+weight = 1
 [sitemap]
-priority = ""
 menu = "main"
+priority = ""
+
 +++
 teams
